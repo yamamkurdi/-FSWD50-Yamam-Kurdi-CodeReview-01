@@ -1,0 +1,41 @@
+.text{
+	text-align: center;
+}
+
+   ul {
+       list-style-type: none;
+       margin: 0; 
+       padding: 0; 
+       overflow: hidden;
+       background-color: #653D3D;
+       top: 5em;
+       width: 100%;
+     }
+
+     li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 7px 9px;
+       text-decoration: none;
+
+       }
+
+     h1 {margin-top: 3em;}
+     li {
+          float: left;
+     }
+
+     #txt { 
+     	list-style-type: none;
+       padding: 1px; 
+       background-color: #978484;
+       color: white; 
+     }
+
+     #imgs {
+     	display: flex;
+     	justify-content: space-around;
+     	width: 400px;
+
+     }
